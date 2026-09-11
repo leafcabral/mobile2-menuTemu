@@ -2,4 +2,10 @@
 <resources>
 	<color name="black">#FF000000</color>
 	<color name="white">#FFFFFFFF</color>
+
+	<color name="orange">#FF6A03</color>
+	<color name="orangeVariant">#DB5B04</color>
+
+	<color name="primary">@color/orange</color>
+	<color name="primaryVariant">@color/orangeVariant</color>
 </resources>

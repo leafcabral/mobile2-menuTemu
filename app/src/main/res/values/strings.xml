@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">MenuTemu</string>
+	<string name="bottom_menu_home">Home</string>
+	<string name="bottom_menu_profile">Profile</string>
+	<string name="bottom_menu_cart">Cart</string>
+	<string name="bottom_menu_menu">Menu</string>
 </resources>
