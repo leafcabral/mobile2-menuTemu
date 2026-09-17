@@ -1,7 +1,32 @@
 <resources>
 	<string name="app_name">MenuTemu</string>
+	
 	<string name="bottom_menu_home">Home</string>
 	<string name="bottom_menu_profile">Profile</string>
 	<string name="bottom_menu_cart">Cart</string>
 	<string name="bottom_menu_menu">Menu</string>
+
+	<string name="nav_open">Open</string>
+	<string name="nav_close">Close</string>
+
+	<string name="nav_menu_fashion">Fashion</string>
+	<string name="nav_menu_stationery">Stationery</string>
+	<string name="nav_menu_accessories">Accessories</string>
+	<string name="nav_menu_furniture">Furniture</string>
+	<string name="nav_menu_books">Books</string>
+	<string name="nav_menu_electronics">Electronics</string>
+	
+	<string name="fab_description">Add</string>
+
+	<string name="frag_cart">cart</string>
+	<string name="frag_home">home</string>
+	<string name="frag_menu">menu</string>
+	<string name="frag_profile">profile</string>
+
+	<string name="frag_cat_fashion">Fashion</string>
+	<string name="frag_cat_stationery">Stationery</string>
+	<string name="frag_cat_accessories">Accessories</string>
+	<string name="frag_cat_furniture">Furniture</string>
+	<string name="frag_cat_books">Books</string>
+	<string name="frag_cat_electronics">Electronics</string>
 </resources>
