@@ -88,7 +88,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 				R.id.nav_stationery -> StationeryFragment()
 				R.id.nav_accessories -> AccessoriesFragment()
 				R.id.nav_electronics -> ElectronicsFragment()
-				else -> HomeFragment()
+				else -> null
 			}
 		)
 
@@ -96,7 +96,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 		return true
 	}
 
-	private fun openFragment(fragment: Fragment) {
+	private fun openFragment(fragment: Fragment?) {
+		if (fragment == null) { return }
 		val fragmentTransaction = fragmentManager.beginTransaction()
 		fragmentTransaction.replace(R.id.fragment_container, fragment)
 		fragmentTransaction.commit()

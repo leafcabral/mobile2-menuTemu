@@ -1,5 +1,6 @@
 <resources>
 	<string name="app_name">MenuTemu</string>
+	<string name="app_creator">Rafael Cabral Lopes e Luiz Felipe da Silva Freitas</string>
 	
 	<string name="bottom_menu_home">Home</string>
 	<string name="bottom_menu_profile">Profile</string>
@@ -18,10 +19,10 @@
 	
 	<string name="fab_description">Add</string>
 
-	<string name="frag_cart">cart</string>
-	<string name="frag_home">home</string>
-	<string name="frag_menu">menu</string>
-	<string name="frag_profile">profile</string>
+	<string name="frag_cart">Cart</string>
+	<string name="frag_home">Home</string>
+	<string name="frag_menu">Menu</string>
+	<string name="frag_profile">Profile</string>
 
 	<string name="frag_cat_fashion">Fashion</string>
 	<string name="frag_cat_stationery">Stationery</string>
